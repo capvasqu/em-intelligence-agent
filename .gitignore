@@ -5,6 +5,9 @@
 .claude/logs/
 *.claude-log
 
+# Claude Code local settings
+.claude/settings.local.json
+
 # Reports generados (outputs locales)
 reports/*.md
 reports/*.json
