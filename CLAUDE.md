@@ -15,7 +15,7 @@ into business impact.
 - Local path: /d/IA/workspace/inventory-management
 - Language: Java
 - Context: This is a portfolio project simulating an inventory management
-  system. It has 6 merged PRs, 20 commits, and 2 open issues (it may vary with time).
+  system. It has 5 merged PRs, 1 closed without merging, 20 commits, and 2 open issues (it may vary with time).
 
 ## What you CAN do
 - Read any file in the target repository (read-only)
