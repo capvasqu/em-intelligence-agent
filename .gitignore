@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Claude Code logs
+.claude/logs/
+*.claude-log
+
+# Reports generados (outputs locales)
+reports/*.md
+reports/*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
