@@ -12,6 +12,9 @@
 reports/*.md
 reports/*.json
 
+# Exception: demo report
+!reports/em_report_2026-05-28.md
+
 # Python
 __pycache__/
 *.pyc
